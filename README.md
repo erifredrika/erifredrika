@@ -1,6 +1,8 @@
 ### Hello you :hibiscus:
-:tada: I'm currently working on a frontend application with SATO as my LIA-project. 
+:tada: I'm currently working on a frontend application with SATO as my LIA-project.
+
 🌱 I'm currently learning Vue.js at my LIA with the company SATO.
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erifredrika&show_icons=true&theme=material-palenight&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **erifredrika/erifredrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
