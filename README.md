@@ -3,14 +3,14 @@
 
 🌱 I'm currently learning Vue.js at my LIA with the company SATO.
 
-<div align="center">
+<div style="float: left;">
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erifredrika&show_icons=true&theme=material-palenight&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<div align="center">
+<div style="float: right;">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=jolly&custom_title=Favourites&card_width=445&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=jolly&custom_title=Favourites&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
