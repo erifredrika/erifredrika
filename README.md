@@ -1,7 +1,8 @@
 ### Hello you :hibiscus:
-:tada: I'm currently working on a frontend application with SATO as my LIA-project.
+✨ In the final year of my .NET Developer Education -  
+I am doing my internship at SATO, where I'm currently learning more about creating applications with Blazor.
 
-🌱 I'm currently learning Vue.js at my LIA with the company SATO.
+🌱 In the planning phase of my own hobby project.
 
 <div style="float: left;">
   
