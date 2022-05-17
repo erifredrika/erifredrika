@@ -1,8 +1,5 @@
 ### Hello you :hibiscus:
-✨ In the final year of my .NET Developer Education -  
-I am doing my internship at SATO, where I'm currently learning more about creating applications with Blazor.
 
-🌱 In the planning phase of my own hobby project.
 
 <div style="float: left;">
   
